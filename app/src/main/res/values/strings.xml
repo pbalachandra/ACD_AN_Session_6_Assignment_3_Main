@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COLORS</string>
+    <string name="menu_title">TEXT COLOR</string>
+    <string name="menu_red">RED</string>
+    <string name="menu_green">GREEN</string>
+    <string name="menu_blue">BLUE</string>
+    <string name="display_text">SELECT ANY COLOR \nFROM THE MENU</string>
+</resources>
